@@ -1,1 +1,6 @@
-# contact-list-winforms.
+- Thành Viên A :
+- Họ Tên : Nguyễn Nhật Minh
+- MSSV : 2280601948
+- Thành Viên B :
+- Họ Tên : Đoàn Minh Nghĩa
+- MSSV : 2280602065
